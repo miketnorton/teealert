@@ -58,7 +58,7 @@ def membersports(c, day):
     for slot in r.json():
         for it in slot["items"]:
             name = it.get("name", "")
-            nine = bool(it.get("isBackNine")) or bool(re.search(r"9\s*only|back nine", name, re.I))
+            nine = bool(it.get("isBackNine")) or bool(re.search(r"9\s*only|back nine|par[ -]?3|executive|footgolf", name, re.I))
             yield dict(minutes=slot["teeTime"], name=name, open=4 - int(it.get("playerCount", 0)),
                        price=it.get("price", 0), holes=9 if nine else 18, back_nine=nine,
                        bookable=not it.get("bookingNotAllowed"), id=it.get("teeTimeId"))
@@ -225,8 +225,8 @@ def matching_openings(course):
 
 
 def send_email(subject, body):
-    host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-    port = int(os.environ.get("SMTP_PORT", "587"))
+    host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
+    port = int(os.environ.get("SMTP_PORT") or 587)
     user, pw, to = os.environ.get("SMTP_USER"), os.environ.get("SMTP_PASS"), os.environ.get("ALERT_TO")
     if not (user and pw and to):
         log("email not configured (SMTP_USER/SMTP_PASS/ALERT_TO missing); would have sent:\n" + body)
