@@ -295,7 +295,8 @@
       "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
-      "days_ahead": 14
+      "days_ahead": 14,
+      "exclude_name": "Front|Back"
     },
     {
       "label": "Riverdale Knolls (Brighton)",
