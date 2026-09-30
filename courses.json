@@ -111,7 +111,7 @@
       "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
-      "days_ahead": 14
+      "days_ahead": 7
     },
     {
       "label": "Kennedy (Denver Golf)",
@@ -207,7 +207,7 @@
       "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
-      "days_ahead": 14
+      "days_ahead": 7
     },
     {
       "label": "Foothills 18 (Foothills P&R)",
