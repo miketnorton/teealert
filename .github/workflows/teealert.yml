@@ -2,11 +2,11 @@ name: Tee-time alerts
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
+    - cron: "*/5 * * * *"     # every 5 min (GitHub's minimum; actual runs may lag a few minutes)
+  workflow_dispatch:           # lets you trigger a run manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write              # to commit state.json back to the repo
 
 concurrency:
   group: teealert
@@ -24,9 +24,8 @@ jobs:
       - run: pip install requests
       - name: Poll tee sheets
         env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           ALERT_TO:  ${{ secrets.ALERT_TO }}
         run: python3 teealert.py
