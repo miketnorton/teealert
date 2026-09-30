@@ -15,9 +15,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -33,9 +33,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 7
     },
     {
@@ -51,9 +51,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -69,9 +69,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -89,9 +89,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -108,10 +108,10 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
-      "days_ahead": 7
+      "bookable_only": true,
+      "days_ahead": 14
     },
     {
       "label": "Kennedy (Denver Golf)",
@@ -127,9 +127,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "exclude_name": "West"
     },
@@ -147,9 +147,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -166,9 +166,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -185,9 +185,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -204,10 +204,11 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
-      "days_ahead": 7
+      "bookable_only": true,
+      "days_ahead": 14,
+      "exclude_name": "Par 3"
     },
     {
       "label": "Foothills 18 (Foothills P&R)",
@@ -223,10 +224,11 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
-      "days_ahead": 14
+      "bookable_only": true,
+      "days_ahead": 14,
+      "exclude_name": "Par 3|Executive"
     },
     {
       "label": "Meadows (Foothills P&R)",
@@ -242,9 +244,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -261,9 +263,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -280,9 +282,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -298,9 +300,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -316,9 +318,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -335,9 +337,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14
     },
     {
@@ -353,9 +355,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 10
     },
     {
@@ -371,9 +373,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 10
     },
     {
@@ -389,9 +391,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 10
     },
     {
@@ -407,9 +409,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 10
     },
     {
@@ -425,9 +427,9 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 4,
+      "min_open_spots": 1,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 7
     }
   ],
