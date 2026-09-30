@@ -362,7 +362,7 @@
     },
     {
       "label": "Meadow Hills (Aurora)",
-      "tier": 2,
+      "tier": 1,
       "platform": "ezlinks",
       "url": "https://cityofaurora.ezlinksgolf.com/search",
       "host": "cityofaurora.ezlinksgolf.com",
@@ -380,7 +380,7 @@
     },
     {
       "label": "Murphy Creek (Aurora)",
-      "tier": 2,
+      "tier": 1,
       "platform": "ezlinks",
       "url": "https://cityofaurora.ezlinksgolf.com/search",
       "host": "cityofaurora.ezlinksgolf.com",
@@ -398,7 +398,7 @@
     },
     {
       "label": "Saddle Rock (Aurora)",
-      "tier": 2,
+      "tier": 1,
       "platform": "ezlinks",
       "url": "https://cityofaurora.ezlinksgolf.com/search",
       "host": "cityofaurora.ezlinksgolf.com",
@@ -416,7 +416,7 @@
     },
     {
       "label": "Heather Ridge (Aurora)",
-      "tier": 2,
+      "tier": 1,
       "platform": "ezlinks",
       "url": "https://heatherridge.ezlinksgolf.com/search",
       "host": "heatherridge.ezlinksgolf.com",
