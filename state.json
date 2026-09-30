@@ -1,5 +1,12 @@
 {
- "tier1": {},
+ "tier1": {
+  "Saddle Rock (Aurora)|2026-10-03|450|2026-10-03-0730": "Sat Oct 3   7:30 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-03|460|2026-10-03-0740": "Sat Oct 3   7:40 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-03|470|2026-10-03-0750": "Sat Oct 3   7:50 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-04|450|2026-10-04-0730": "Sun Oct 4   7:30 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-04|460|2026-10-04-0740": "Sun Oct 4   7:40 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-04|470|2026-10-04-0750": "Sun Oct 4   7:50 AM  Saddle Rock (Aurora)  4 open"
+ },
  "tier2": {
   "Coal Creek (Louisville)|2026-10-10|610|19815948": "Sat Oct 10  10:10 AM  Coal Creek  4 open @ $93",
   "Coal Creek (Louisville)|2026-10-10|620|19815950": "Sat Oct 10  10:20 AM  Coal Creek  4 open @ $93",
