@@ -56,7 +56,7 @@
       "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
-      "days_ahead": 7
+      "days_ahead": 6
     },
     {
       "label": "Riverdale Dunes (Brighton)",
