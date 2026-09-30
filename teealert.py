@@ -218,7 +218,7 @@ def matching_openings(course):
             if course.get("bookable_only") and not s["bookable"]:
                 continue
             key = f"{course['label']}|{day}|{s['minutes']}|{s['id']}"
-            flag = "" if s["bookable"] else " (outside booking window)"
+            flag = "" if s["bookable"] else " (Loyalty Window)"
             price = f" @ ${float(s['price']):.0f}" if s.get("price") else ""
             found[key] = f"{day:%a %b %-d}  {hhmm(s['minutes']):>8}  {s['name']}  {s['open']} open{price}{flag}"
     return found
