@@ -1,0 +1,438 @@
+{
+  "timezone": "America/Denver",
+  "courses": [
+    {
+      "label": "City Park (Denver Golf)",
+      "tier": 1,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3660/4711/0",
+      "golfClubId": 3660,
+      "golfCourseId": 4711,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Buffalo Run (Commerce City)",
+      "tier": 1,
+      "platform": "teeitup",
+      "url": "https://buffalo-run-golf-course.book.teeitup.golf/teetimes?course=513",
+      "alias": "buffalo-run-golf-course",
+      "facilityId": 513,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 7
+    },
+    {
+      "label": "CommonGround (CGA)",
+      "tier": 1,
+      "platform": "teeitup",
+      "url": "https://commonground-golf-course.book.teeitup.com/?course=5275",
+      "alias": "commonground-golf-course",
+      "facilityId": 5275,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Riverdale Dunes (Brighton)",
+      "tier": 1,
+      "platform": "teeitup",
+      "url": "https://riverdale.book.teeitup.com/?course=1016",
+      "alias": "riverdale",
+      "facilityId": 1016,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Thorncreek (Thornton)",
+      "tier": 1,
+      "platform": "quick18",
+      "url": "https://thorncreek.quick18.com/teetimes/searchmatrix",
+      "host": "thorncreek.quick18.com",
+      "courseIds": [
+        693
+      ],
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Fox Hollow (Golf Lakewood)",
+      "tier": 1,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3703/20589/0",
+      "golfClubId": 3703,
+      "golfCourseId": 20589,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Kennedy (Denver Golf)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3629/20573/1",
+      "golfClubId": 3629,
+      "golfCourseId": 20573,
+      "configurationTypeId": 1,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14,
+      "exclude_name": "West"
+    },
+    {
+      "label": "Wellshire (Denver Golf)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3831/4928/0",
+      "golfClubId": 3831,
+      "golfCourseId": 4928,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Willis Case (Denver Golf)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3833/4932/0",
+      "golfClubId": 3833,
+      "golfCourseId": 4932,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Overland Park (Denver Golf)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3755/4827/0",
+      "golfClubId": 3755,
+      "golfCourseId": 4827,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Broken Tee (Englewood)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3689/4748/0",
+      "golfClubId": 3689,
+      "golfCourseId": 4748,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Foothills 18 (Foothills P&R)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3697/4759/0",
+      "golfClubId": 3697,
+      "golfCourseId": 4759,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Meadows (Foothills P&R)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3811/4906/0",
+      "golfClubId": 3811,
+      "golfCourseId": 4906,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Homestead (Golf Lakewood)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3807/4902/0",
+      "golfClubId": 3807,
+      "golfCourseId": 4902,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Coal Creek (Louisville)",
+      "tier": 2,
+      "platform": "membersports",
+      "url": "https://app.membersports.com/tee-times/3663/4714/0",
+      "golfClubId": 3663,
+      "golfCourseId": 4714,
+      "configurationTypeId": 0,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Riverdale Knolls (Brighton)",
+      "tier": 2,
+      "platform": "teeitup",
+      "url": "https://riverdale.book.teeitup.com/?course=1017",
+      "alias": "riverdale",
+      "facilityId": 1017,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Hyland Hills Gold (Westminster)",
+      "tier": 2,
+      "platform": "teeitup",
+      "url": "https://hyland-hills-park-recreation-district.book.teeitup.com/?course=9201",
+      "alias": "hyland-hills-park-recreation-district",
+      "facilityId": 9201,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Applewood (Golden)",
+      "tier": 2,
+      "platform": "clubcaddie",
+      "url": "https://apimanager-cc11.clubcaddie.com/webapi/view/hbfdabab/slots",
+      "host": "apimanager-cc11.clubcaddie.com",
+      "apikey": "hbfdabab",
+      "courseId": 103418,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 14
+    },
+    {
+      "label": "Aurora Hills (Aurora)",
+      "tier": 2,
+      "platform": "ezlinks",
+      "url": "https://cityofaurora.ezlinksgolf.com/search",
+      "host": "cityofaurora.ezlinksgolf.com",
+      "courseId": 6386,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 10
+    },
+    {
+      "label": "Meadow Hills (Aurora)",
+      "tier": 2,
+      "platform": "ezlinks",
+      "url": "https://cityofaurora.ezlinksgolf.com/search",
+      "host": "cityofaurora.ezlinksgolf.com",
+      "courseId": 6474,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 10
+    },
+    {
+      "label": "Murphy Creek (Aurora)",
+      "tier": 2,
+      "platform": "ezlinks",
+      "url": "https://cityofaurora.ezlinksgolf.com/search",
+      "host": "cityofaurora.ezlinksgolf.com",
+      "courseId": 19921,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 10
+    },
+    {
+      "label": "Saddle Rock (Aurora)",
+      "tier": 2,
+      "platform": "ezlinks",
+      "url": "https://cityofaurora.ezlinksgolf.com/search",
+      "host": "cityofaurora.ezlinksgolf.com",
+      "courseId": 19197,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 10
+    },
+    {
+      "label": "Heather Ridge (Aurora)",
+      "tier": 2,
+      "platform": "ezlinks",
+      "url": "https://heatherridge.ezlinksgolf.com/search",
+      "host": "heatherridge.ezlinksgolf.com",
+      "courseId": 6444,
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "earliest": "06:00",
+      "latest": "11:59",
+      "min_open_spots": 1,
+      "eighteen_only": true,
+      "bookable_only": false,
+      "days_ahead": 7
+    }
+  ],
+  "tier2_digest_times": [
+    "07:00",
+    "17:00"
+  ]
+}
