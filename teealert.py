@@ -3,7 +3,8 @@
 
 Platforms: membersports, teeitup, foreup, quick18, clubcaddie, ezlinks (see README for per-course fields).
 Runs one poll cycle per invocation (designed for GitHub Actions cron).
-Email via env vars / GitHub Secrets: SMTP_HOST (smtp.gmail.com), SMTP_PORT (587), SMTP_USER, SMTP_PASS, ALERT_TO
+Email via env vars / GitHub Secrets: SMTP_HOST (smtp.gmail.com), SMTP_PORT (587), SMTP_USER, SMTP_PASS, ALERT_TO,
+  and optional SMTP_FROM (the From address, if it differs from SMTP_USER — needed for Brevo and similar relays)
 Usage:  python3 teealert.py           # poll + email new openings
         python3 teealert.py --test    # send a test email
         python3 teealert.py --dry     # poll, print, no email, no state change
@@ -231,7 +232,7 @@ def send_email(subject, body):
         log("email not configured (SMTP_USER/SMTP_PASS/ALERT_TO missing); would have sent:\n" + body)
         return
     msg = EmailMessage()
-    msg["Subject"], msg["From"], msg["To"] = subject, user, to
+    msg["Subject"], msg["From"], msg["To"] = subject, os.environ.get("SMTP_FROM") or user, to
     msg.set_content(body)
     with smtplib.SMTP(host, port, timeout=30) as s:
         s.starttls(); s.login(user, pw); s.send_message(msg)
