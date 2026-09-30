@@ -15,7 +15,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
       "days_ahead": 14
@@ -33,7 +33,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
@@ -51,7 +51,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
@@ -69,7 +69,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 8
@@ -89,7 +89,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 14
@@ -108,7 +108,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
@@ -127,7 +127,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
       "days_ahead": 14,
@@ -147,7 +147,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
       "days_ahead": 14
@@ -166,7 +166,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
       "days_ahead": 14
@@ -185,7 +185,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": false,
       "days_ahead": 14
@@ -204,7 +204,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 8,
@@ -224,7 +224,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10,
@@ -244,7 +244,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10
@@ -263,7 +263,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
@@ -282,7 +282,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 14
@@ -300,7 +300,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 8
@@ -318,7 +318,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 8
@@ -337,7 +337,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
@@ -355,7 +355,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10
@@ -373,7 +373,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10
@@ -391,7 +391,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10
@@ -409,7 +409,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10
@@ -427,7 +427,7 @@
       ],
       "earliest": "06:00",
       "latest": "11:59",
-      "min_open_spots": 1,
+      "min_open_spots": 4,
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 7
