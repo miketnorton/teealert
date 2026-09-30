@@ -200,8 +200,17 @@ def matching_openings(course):
     today = dt.datetime.now(TZ).date()
     lo, hi = to_minutes(course.get("earliest", "06:00")), to_minutes(course.get("latest", "11:59"))
     fetch = ADAPTERS[course.get("platform", "membersports")]
+    now = dt.datetime.now(TZ)
+    window = course.get("window_days")          # days out that are bookable online
+    rel = course.get("release_time")             # HH:MM when the next day is released
     for i in range(course.get("days_ahead", 14) + 1):
         day = today + dt.timedelta(days=i)
+        within_window = True
+        if window is not None:
+            if i > window:
+                within_window = False
+            elif i == window and rel and now < now.replace(hour=int(rel[:2]), minute=int(rel[3:5]), second=0, microsecond=0):
+                within_window = False
         if DAY_ABBR[day.weekday()] not in course.get("days", ["Sat", "Sun"]):
             continue
         try:
@@ -210,6 +219,8 @@ def matching_openings(course):
             log(f"[{course['label']}] fetch error {day}: {e}")
             continue
         for s in slots:
+            if not within_window:
+                s["bookable"] = False
             if not (lo <= s["minutes"] <= hi):
                 continue
             if course.get("eighteen_only", True) and (s["holes"] != 18 or s["back_nine"]):

@@ -66,7 +66,8 @@ Common filters (all optional, defaults shown in the file):
 | `no_premium` | `true` = ignore slots that carry a per-player advance-booking surcharge (MemberSports courses beyond their standard window). Otherwise the fee is shown in the alert. |
 | `days_ahead` | how far out to scan; match the course's public booking window to avoid a daily flood of "new" far-out slots |
 | `tier` | `1` immediate alerts, `2` twice-daily digest (see Tiers) |
-| `release_time` | tier-2 only: `HH:MM` when the course releases new days (Denver Golf Loyalty 19:00, Aurora 20:00). Polled on the first two runs after that time and alerted immediately. |
+| `window_days` | how many days out the course sells online. Slots beyond it (or on the last day before `release_time`) are treated as not bookable. Needed for EZLinks courses, whose tee sheet shows days that aren't on sale yet. |
+| `release_time` | `HH:MM` when the course releases its next day (Denver Golf Loyalty 19:00, Aurora 20:00). Used with `window_days`; tier-2 courses are also polled on the first two runs after this time and alerted immediately. |
 | `disabled` | `true` to pause a course without deleting it |
 
 ### Tiers
