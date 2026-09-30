@@ -31,6 +31,9 @@ Repo → Settings → Secrets and variables → Actions → **New repository sec
 | `SMTP_PASS` | the 16-char app password |
 | `ALERT_TO`  | where alerts go (can be a different address, or several separated by commas) |
 
+Optional fourth secret: `MEMBERSPORTS_KEY` = `A9814038-9E19-4683-B171-5A06B39147FC`. This is the public key MemberSports' own
+website sends with every request (it identifies their app, not you); storing it as a secret just keeps it out of the repo files.
+
 Using a relay other than Gmail (e.g. Brevo, free 300/day): also add `SMTP_HOST` (`smtp-relay.brevo.com`), `SMTP_PORT` (`587`),
 and `SMTP_FROM` (a sender address you have verified with the relay). `SMTP_USER` is then the relay's login, `SMTP_PASS` its SMTP key.
 

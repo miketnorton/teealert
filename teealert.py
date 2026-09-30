@@ -27,6 +27,9 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTM
 DAY_ABBR = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 S = requests.Session()
 S.headers["User-Agent"] = UA
+# MemberSports' web app sends this public key with every request; it identifies the app, not a user.
+# Set the MEMBERSPORTS_KEY secret to keep it out of the repo, or leave the fallback and it works as-is.
+MS_PUBLIC_KEY = os.environ.get("MEMBERSPORTS_KEY", "")
 
 
 def log(msg):
@@ -50,7 +53,7 @@ def to_minutes(s):
 
 def membersports(c, day):
     hdr = {"Content-Type": "application/json", "Accept": "application/json",
-           "x-api-key": "A9814038-9E19-4683-B171-5A06B39147FC",
+           "x-api-key": os.environ.get("MEMBERSPORTS_KEY") or MS_PUBLIC_KEY,
            "Origin": "https://app.membersports.com", "Referer": "https://app.membersports.com/"}
     body = {"configurationTypeId": c.get("configurationTypeId", 0), "date": day.strftime("%Y-%m-%d"),
             "golfClubGroupId": 0, "golfClubId": c["golfClubId"], "golfCourseId": c["golfCourseId"],
