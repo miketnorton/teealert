@@ -31,6 +31,9 @@ Repo → Settings → Secrets and variables → Actions → **New repository sec
 | `SMTP_PASS` | the 16-char app password |
 | `ALERT_TO`  | where alerts go (can be a different address, or several separated by commas) |
 
+Using a relay other than Gmail (e.g. Brevo, free 300/day): also add `SMTP_HOST` (`smtp-relay.brevo.com`), `SMTP_PORT` (`587`),
+and `SMTP_FROM` (a sender address you have verified with the relay). `SMTP_USER` is then the relay's login, `SMTP_PASS` its SMTP key.
+
 ### 4. Turn it on and test
 - Repo → Actions tab → if prompted, "I understand my workflows, go ahead and enable them."
 - Click **Tee-time alerts** → **Run workflow**. The first run emails every currently-open matching
@@ -59,9 +62,11 @@ Common filters (all optional, defaults shown in the file):
 | `min_open_spots` | 1–4 seats required (e.g. 2 if you always play with your wife) |
 | `eighteen_only` | skip 9-hole and back-nine starts (set `false` for executive courses like Heather Gardens) |
 | `exclude_name` | regex; skip tee-time names matching it (e.g. `West` to skip Kennedy rotations using the West 9) |
-| `bookable_only` | `true` = ignore slots flagged outside your booking window (Loyalty-only etc.) |
+| `bookable_only` | `true` = ignore slots the site flags as not bookable for an anonymous user. Keep `false` on Denver Golf courses if you hold a Loyalty card: days 8–14 are then shown tagged "(Loyalty window)". |
+| `no_premium` | `true` = ignore slots that carry a per-player advance-booking surcharge (MemberSports courses beyond their standard window). Otherwise the fee is shown in the alert. |
 | `days_ahead` | how far out to scan; match the course's public booking window to avoid a daily flood of "new" far-out slots |
 | `tier` | `1` immediate alerts, `2` twice-daily digest (see Tiers) |
+| `release_time` | tier-2 only: `HH:MM` when the course releases new days (Denver Golf Loyalty 19:00, Aurora 20:00). Polled on the first two runs after that time and alerted immediately. |
 | `disabled` | `true` to pause a course without deleting it |
 
 ### Tiers
@@ -75,6 +80,7 @@ Edit `courses.json` directly on GitHub; the next run picks it up automatically.
 
 ### Not pollable
 - **Club Prophet (`*.cps.golf`)** — Indian Tree, Eagle Trace, Legacy Ridge, Walnut Creek — sits behind a Cloudflare browser challenge that blocks scripts.
+- **Club Prophet** also covers Fossil Trace and Highlands Ranch GC.
 - **Broadlands** uses Noteefy, which *is* a tee-time alert service: sign up on its booking page and pick your window there.
 
 ## Things to know
