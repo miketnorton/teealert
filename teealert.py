@@ -10,6 +10,8 @@ Usage:  python3 teealert.py           # poll + email new openings
         python3 teealert.py --dry     # poll, print, no email, no state change
 Tiers: courses with "tier": 1 alert immediately every run; "tier": 2 are polled and emailed as a
 digest only at the times in "tier2_digest_times" (default 07:00 and 17:00 local).
+A tier-2 course with "release_time": "HH:MM" is additionally polled on the first two runs after that time
+each day and alerted immediately, to catch a booking window opening.
 """
 import json, os, re, smtplib, sys, html, datetime as dt, pathlib
 from email.message import EmailMessage
@@ -61,7 +63,8 @@ def membersports(c, day):
             nine = bool(it.get("isBackNine")) or bool(re.search(r"9\s*only|back nine|par[ -]?3|executive|footgolf", name, re.I))
             yield dict(minutes=slot["teeTime"], name=name, open=4 - int(it.get("playerCount", 0)),
                        price=it.get("price", 0), holes=9 if nine else 18, back_nine=nine,
-                       bookable=not it.get("bookingNotAllowed"), id=it.get("teeTimeId"))
+                       bookable=not it.get("bookingNotAllowed"), id=it.get("teeTimeId"),
+                       premium=float(it.get("premiumCharge") or 0))
 
 
 def teeitup(c, day):
@@ -217,8 +220,12 @@ def matching_openings(course):
                 continue
             if course.get("bookable_only") and not s["bookable"]:
                 continue
+            if course.get("no_premium") and s.get("premium"):
+                continue
             key = f"{course['label']}|{day}|{s['minutes']}|{s['id']}"
-            flag = "" if s["bookable"] else " (Loyalty Window)"
+            flag = "" if s["bookable"] else " (Loyalty window)"
+            if s.get("premium"):
+                flag += f" (+${s['premium']:.0f}/player advance fee)"
             price = f" @ ${float(s['price']):.0f}" if s.get("price") else ""
             found[key] = f"{day:%a %b %-d}  {hhmm(s['minutes']):>8}  {s['name']}  {s['open']} open{price}{flag}"
     return found
@@ -278,6 +285,19 @@ def email_sections(prefix, sections, labels, dry):
         send_email(subject, body)
 
 
+def release_due(course, state, now):
+    """Tier-2 course with a release_time: poll on the first two runs after that time each day."""
+    rt = course.get("release_time")
+    if not rt:
+        return False
+    hh, mm = map(int, rt.split(":"))
+    sched = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    if now < sched:
+        return False
+    done = state.setdefault("release_runs", {}).get(course["label"], {})
+    return done.get("date") != str(now.date()) or done.get("count", 0) < 2
+
+
 def run_once(dry=False):
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     if "tier1" not in state:  # migrate old flat state
@@ -298,8 +318,21 @@ def run_once(dry=False):
             log("tier-2 digest due: nothing new")
         state["tier2"] = found
         state["tier2_last_digest"] = now.replace(tzinfo=None).isoformat(timespec="minutes")
-    elif tier2:
-        log(f"tier-2: {len(tier2)} course(s) skipped until next digest")
+    else:
+        # Release-time checks: tier-2 courses whose booking window just opened get an immediate alert.
+        rel = [c for c in tier2 if release_due(c, state, now)]
+        if rel:
+            found, sections, labels = poll_courses(rel, state["tier2"])
+            email_sections("Release: ", sections, labels, dry)
+            for c in rel:  # refresh just these courses' entries so the next digest doesn't repeat them
+                state["tier2"] = {k: v for k, v in state["tier2"].items() if not k.startswith(c["label"] + "|")}
+                state["tier2"].update({k: v for k, v in found.items() if k.startswith(c["label"] + "|")})
+                d = state["release_runs"].get(c["label"], {})
+                cnt = d.get("count", 0) + 1 if d.get("date") == str(now.date()) else 1
+                state["release_runs"][c["label"]] = {"date": str(now.date()), "count": cnt}
+        skipped = len(tier2) - len(rel)
+        if skipped:
+            log(f"tier-2: {skipped} course(s) skipped until next digest")
 
     if not dry:
         STATE_FILE.write_text(json.dumps(state, indent=1, sort_keys=True))
