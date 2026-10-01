@@ -222,7 +222,7 @@
     },
     {
       "label": "Foothills 18 (Foothills P&R)",
-      "tier": 2,
+      "tier": 1,
       "platform": "membersports",
       "url": "https://app.membersports.com/tee-times/3697/4759/0",
       "golfClubId": 3697,
@@ -238,6 +238,7 @@
       "eighteen_only": true,
       "bookable_only": true,
       "days_ahead": 10,
+      "release_time": "17:00",
       "exclude_name": "Par 3|Executive"
     },
     {
