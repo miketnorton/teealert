@@ -279,26 +279,6 @@
       "days_ahead": 7
     },
     {
-      "label": "Coal Creek (Louisville)",
-      "tier": 2,
-      "platform": "membersports",
-      "url": "https://app.membersports.com/tee-times/3663/4714/0",
-      "golfClubId": 3663,
-      "golfCourseId": 4714,
-      "configurationTypeId": 0,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 14,
-      "exclude_name": "Front|Back"
-    },
-    {
       "label": "Riverdale Knolls (Brighton)",
       "tier": 2,
       "platform": "teeitup",
