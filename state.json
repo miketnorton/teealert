@@ -23,7 +23,6 @@
  },
  "tier1": {
   "Buffalo Run (Commerce City)|2026-10-04|600|2026-10-04T16:00:00.000Z": "Sun Oct 4  10:00 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Meadow Hills (Aurora)|2026-10-11|650|2026-10-11-1050": "Sun Oct 11  10:50 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Meadow Hills (Aurora)  4 open",
@@ -43,9 +42,6 @@
   "Saddle Rock (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Saddle Rock (Aurora)  4 open"
  },
  "tier2": {
-  "Aurora Hills (Aurora)|2026-10-04|580|2026-10-04-0940": "Sun Oct 4   9:40 AM  Aurora Hills (Aurora)  4 open",
-  "Aurora Hills (Aurora)|2026-10-11|580|2026-10-11-0940": "Sun Oct 11   9:40 AM  Aurora Hills (Aurora)  4 open",
-  "Aurora Hills (Aurora)|2026-10-11|610|2026-10-11-1010": "Sun Oct 11  10:10 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-10-11|620|2026-10-11-1020": "Sun Oct 11  10:20 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-10-11|630|2026-10-11-1030": "Sun Oct 11  10:30 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Aurora Hills (Aurora)  4 open",
@@ -53,11 +49,22 @@
   "Aurora Hills (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Aurora Hills (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-10-04|684|2026-10-04-1124": "Sun Oct 4  11:24 AM  Heather Ridge (Aurora)  4 open",
+  "Broken Tee (Englewood)|2026-10-04|670|20184675": "Sun Oct 4  11:10 AM  Championship   4 open @ $77",
+  "Broken Tee (Englewood)|2026-10-10|660|20185521": "Sat Oct 10  11:00 AM  Championship   4 open @ $77 (+$10/player advance fee)",
+  "Broken Tee (Englewood)|2026-10-10|670|20185523": "Sat Oct 10  11:10 AM  Championship   4 open @ $77 (+$10/player advance fee)",
+  "Broken Tee (Englewood)|2026-10-10|680|20185525": "Sat Oct 10  11:20 AM  Championship   4 open @ $77 (+$10/player advance fee)",
+  "Broken Tee (Englewood)|2026-10-10|690|20185527": "Sat Oct 10  11:30 AM  Championship   4 open @ $77 (+$10/player advance fee)",
+  "Broken Tee (Englewood)|2026-10-10|700|20185529": "Sat Oct 10  11:40 AM  Championship   4 open @ $77 (+$10/player advance fee)",
   "Meadows (Foothills P&R)|2026-10-11|680|19827608": "Sun Oct 11  11:20 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-11|690|19827610": "Sun Oct 11  11:30 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-11|700|19827612": "Sun Oct 11  11:40 AM  Meadows  4 open @ $89",
-  "Meadows (Foothills P&R)|2026-10-11|710|19827614": "Sun Oct 11  11:50 AM  Meadows  4 open @ $89"
+  "Meadows (Foothills P&R)|2026-10-11|710|19827614": "Sun Oct 11  11:50 AM  Meadows  4 open @ $89",
+  "Overland Park (Denver Golf)|2026-10-04|690|16480782": "Sun Oct 4  11:30 AM  Overland Park  4 open @ $67",
+  "Overland Park (Denver Golf)|2026-10-11|680|14183970": "Sun Oct 11  11:20 AM  Overland Park  4 open @ $67 (Loyalty window)",
+  "Riverdale Knolls (Brighton)|2026-10-10|693|2026-10-10T17:33:00.000Z": "Sat Oct 10  11:33 AM  Riverdale Knolls (Brighton)  4 open @ $61",
+  "Riverdale Knolls (Brighton)|2026-10-10|702|2026-10-10T17:42:00.000Z": "Sat Oct 10  11:42 AM  Riverdale Knolls (Brighton)  4 open @ $61",
+  "Riverdale Knolls (Brighton)|2026-10-10|711|2026-10-10T17:51:00.000Z": "Sat Oct 10  11:51 AM  Riverdale Knolls (Brighton)  4 open @ $61",
+  "Willis Case (Denver Golf)|2026-10-11|580|14184162": "Sun Oct 11   9:40 AM  Willis Case  4 open @ $67 (Loyalty window)"
  },
- "tier2_last_digest": "2026-10-01T17:07"
+ "tier2_last_digest": "2026-10-02T07:04"
 }
