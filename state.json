@@ -1,5 +1,9 @@
 {
  "release_runs": {
+  "Aurora Hills (Aurora)": {
+   "count": 1,
+   "date": "2026-10-01"
+  },
   "Kennedy (Denver Golf)": {
    "count": 2,
    "date": "2026-10-01"
@@ -17,8 +21,41 @@
    "date": "2026-10-01"
   }
  },
- "tier1": {},
+ "tier1": {
+  "Meadow Hills (Aurora)|2026-10-11|620|2026-10-11-1020": "Sun Oct 11  10:20 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|640|2026-10-11-1040": "Sun Oct 11  10:40 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|650|2026-10-11-1050": "Sun Oct 11  10:50 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|690|2026-10-11-1130": "Sun Oct 11  11:30 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Meadow Hills (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-03|500|2026-10-03-0820": "Sat Oct 3   8:20 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|590|2026-10-11-0950": "Sun Oct 11   9:50 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|620|2026-10-11-1020": "Sun Oct 11  10:20 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|630|2026-10-11-1030": "Sun Oct 11  10:30 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|640|2026-10-11-1040": "Sun Oct 11  10:40 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|650|2026-10-11-1050": "Sun Oct 11  10:50 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|690|2026-10-11-1130": "Sun Oct 11  11:30 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Saddle Rock (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Saddle Rock (Aurora)  4 open"
+ },
  "tier2": {
+  "Aurora Hills (Aurora)|2026-10-04|470|2026-10-04-0750": "Sun Oct 4   7:50 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|580|2026-10-11-0940": "Sun Oct 11   9:40 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|600|2026-10-11-1000": "Sun Oct 11  10:00 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|610|2026-10-11-1010": "Sun Oct 11  10:10 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|620|2026-10-11-1020": "Sun Oct 11  10:20 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|630|2026-10-11-1030": "Sun Oct 11  10:30 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Aurora Hills (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-10-04|684|2026-10-04-1124": "Sun Oct 4  11:24 AM  Heather Ridge (Aurora)  4 open",
   "Meadows (Foothills P&R)|2026-10-11|680|19827608": "Sun Oct 11  11:20 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-11|690|19827610": "Sun Oct 11  11:30 AM  Meadows  4 open @ $89",
