@@ -22,19 +22,21 @@
   }
  },
  "tier1": {
+  "Buffalo Run (Commerce City)|2026-10-03|440|2026-10-03T13:20:00.000Z": "Sat Oct 3   7:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
+  "Meadow Hills (Aurora)|2026-10-03|660|2026-10-03-1100": "Sat Oct 3  11:00 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|690|2026-10-11-1130": "Sun Oct 11  11:30 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Meadow Hills (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-03|510|2026-10-03-0830": "Sat Oct 3   8:30 AM  Murphy Creek (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-10-03|710|2026-10-03-1150": "Sat Oct 3  11:50 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-11|660|2026-10-11-1100": "Sun Oct 11  11:00 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-11|670|2026-10-11-1110": "Sun Oct 11  11:10 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-11|680|2026-10-11-1120": "Sun Oct 11  11:20 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-11|690|2026-10-11-1130": "Sun Oct 11  11:30 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-11|700|2026-10-11-1140": "Sun Oct 11  11:40 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Saddle Rock (Aurora)  4 open"
+  "Saddle Rock (Aurora)|2026-10-11|710|2026-10-11-1150": "Sun Oct 11  11:50 AM  Saddle Rock (Aurora)  4 open",
+  "Thorncreek (Thornton)|2026-10-04|711|2026-10-04-1151-693": "Sun Oct 4  11:51 AM  Thorncreek  4 open @ $60"
  },
  "tier2": {
   "Aurora Hills (Aurora)|2026-10-11|620|2026-10-11-1020": "Sun Oct 11  10:20 AM  Aurora Hills (Aurora)  4 open",
