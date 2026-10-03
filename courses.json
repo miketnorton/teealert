@@ -17,7 +17,7 @@
       "latest": "11:59",
       "min_open_spots": 4,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "window_days": 14,
       "release_time": "19:00"
@@ -131,7 +131,7 @@
       "latest": "11:59",
       "min_open_spots": 4,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "exclude_name": "West",
       "release_time": "19:00",
@@ -153,7 +153,7 @@
       "latest": "11:59",
       "min_open_spots": 4,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "release_time": "19:00",
       "window_days": 14
@@ -174,7 +174,7 @@
       "latest": "11:59",
       "min_open_spots": 4,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "release_time": "19:00",
       "window_days": 14
@@ -195,7 +195,7 @@
       "latest": "11:59",
       "min_open_spots": 4,
       "eighteen_only": true,
-      "bookable_only": false,
+      "bookable_only": true,
       "days_ahead": 14,
       "release_time": "19:00",
       "window_days": 14
