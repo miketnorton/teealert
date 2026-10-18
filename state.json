@@ -1,7 +1,7 @@
 {
  "release_runs": {
   "Aurora Hills (Aurora)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-17"
   },
   "Kennedy (Denver Golf)": {
@@ -31,14 +31,12 @@
   "Buffalo Run (Commerce City)|2026-10-24|670|2026-10-24T17:10:00.000Z": "Sat Oct 24  11:10 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-24|680|2026-10-24T17:20:00.000Z": "Sat Oct 24  11:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-24|700|2026-10-24T17:40:00.000Z": "Sat Oct 24  11:40 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "CommonGround (CGA)|2026-10-18|700|2026-10-18T17:40:00.000Z": "Sun Oct 18  11:40 AM  CommonGround (CGA)  4 open @ $92",
   "CommonGround (CGA)|2026-10-18|710|2026-10-18T17:50:00.000Z": "Sun Oct 18  11:50 AM  CommonGround (CGA)  4 open @ $92",
   "Meadow Hills (Aurora)|2026-10-17|570|2026-10-17-0930": "Sat Oct 17   9:30 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|680|2026-10-25-1120": "Sun Oct 25  11:20 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|690|2026-10-25-1130": "Sun Oct 25  11:30 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|700|2026-10-25-1140": "Sun Oct 25  11:40 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|710|2026-10-25-1150": "Sun Oct 25  11:50 AM  Meadow Hills (Aurora)  4 open",
-  "Murphy Creek (Aurora)|2026-10-25|640|2026-10-25-1040": "Sun Oct 25  10:40 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-25|650|2026-10-25-1050": "Sun Oct 25  10:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-25|660|2026-10-25-1100": "Sun Oct 25  11:00 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-25|670|2026-10-25-1110": "Sun Oct 25  11:10 AM  Murphy Creek (Aurora)  4 open",
@@ -48,7 +46,6 @@
   "Murphy Creek (Aurora)|2026-10-25|710|2026-10-25-1150": "Sun Oct 25  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-25|690|2026-10-25-1130": "Sun Oct 25  11:30 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-25|700|2026-10-25-1140": "Sun Oct 25  11:40 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-10-25|710|2026-10-25-1150": "Sun Oct 25  11:50 AM  Saddle Rock (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-10-31|694|2026-10-31-1134-693": "Sat Oct 31  11:34 AM  Thorncreek  4 open @ $60",
   "Thorncreek (Thornton)|2026-10-31|705|2026-10-31-1145-693": "Sat Oct 31  11:45 AM  Thorncreek  4 open @ $60",
   "Thorncreek (Thornton)|2026-10-31|716|2026-10-31-1156-693": "Sat Oct 31  11:56 AM  Thorncreek  4 open @ $60"
