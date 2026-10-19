@@ -1,7 +1,7 @@
 {
  "release_runs": {
   "Aurora Hills (Aurora)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-18"
   },
   "Kennedy (Denver Golf)": {
@@ -22,7 +22,6 @@
   }
  },
  "tier1": {
-  "Buffalo Run (Commerce City)|2026-10-25|540|2026-10-25T15:00:00.000Z": "Sun Oct 25   9:00 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|550|2026-10-25T15:10:00.000Z": "Sun Oct 25   9:10 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|590|2026-10-25T15:50:00.000Z": "Sun Oct 25   9:50 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|650|2026-10-25T16:50:00.000Z": "Sun Oct 25  10:50 AM  Buffalo Run (Commerce City)  4 open @ $62",
