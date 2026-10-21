@@ -1,7 +1,7 @@
 {
  "release_runs": {
   "Aurora Hills (Aurora)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-20"
   },
   "Kennedy (Denver Golf)": {
@@ -24,6 +24,7 @@
  "tier1": {
   "Buffalo Run (Commerce City)|2026-10-25|670|2026-10-25T17:10:00.000Z": "Sun Oct 25  11:10 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Meadow Hills (Aurora)|2026-10-24|650|2026-10-24-1050": "Sat Oct 24  10:50 AM  Meadow Hills (Aurora)  4 open",
+  "Saddle Rock (Aurora)|2026-10-24|600|2026-10-24-1000": "Sat Oct 24  10:00 AM  Saddle Rock (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-10-31|716|2026-10-31-1156-693": "Sat Oct 31  11:56 AM  Thorncreek  4 open @ $63"
  },
  "tier2": {
@@ -36,7 +37,6 @@
   "Applewood (Golden)|2026-10-25|669|2026-10-25-11:09:00": "Sun Oct 25  11:09 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|678|2026-10-25-11:18:00": "Sun Oct 25  11:18 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|687|2026-10-25-11:27:00": "Sun Oct 25  11:27 AM  Applewood (Golden)  4 open @ $67",
-  "Aurora Hills (Aurora)|2026-10-24|700|2026-10-24-1140": "Sat Oct 24  11:40 AM  Aurora Hills (Aurora)  4 open",
   "Broken Tee (Englewood)|2026-10-25|660|20258456": "Sun Oct 25  11:00 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|670|20258458": "Sun Oct 25  11:10 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|710|20258466": "Sun Oct 25  11:50 AM  Championship   4 open @ $77",
