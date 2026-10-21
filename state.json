@@ -29,15 +29,11 @@
   "Thorncreek (Thornton)|2026-10-31|716|2026-10-31-1156-693": "Sat Oct 31  11:56 AM  Thorncreek  4 open @ $63"
  },
  "tier2": {
-  "Applewood (Golden)|2026-10-25|615|2026-10-25-10:15:00": "Sun Oct 25  10:15 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|624|2026-10-25-10:24:00": "Sun Oct 25  10:24 AM  Applewood (Golden)  4 open @ $67",
-  "Applewood (Golden)|2026-10-25|633|2026-10-25-10:33:00": "Sun Oct 25  10:33 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|642|2026-10-25-10:42:00": "Sun Oct 25  10:42 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|651|2026-10-25-10:51:00": "Sun Oct 25  10:51 AM  Applewood (Golden)  4 open @ $67",
-  "Applewood (Golden)|2026-10-25|660|2026-10-25-11:00:00": "Sun Oct 25  11:00 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|669|2026-10-25-11:09:00": "Sun Oct 25  11:09 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|678|2026-10-25-11:18:00": "Sun Oct 25  11:18 AM  Applewood (Golden)  4 open @ $67",
-  "Applewood (Golden)|2026-10-25|687|2026-10-25-11:27:00": "Sun Oct 25  11:27 AM  Applewood (Golden)  4 open @ $67",
   "Broken Tee (Englewood)|2026-10-25|660|20258456": "Sun Oct 25  11:00 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|670|20258458": "Sun Oct 25  11:10 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|710|20258466": "Sun Oct 25  11:50 AM  Championship   4 open @ $77",
@@ -49,7 +45,18 @@
   "Heather Ridge (Aurora)|2026-10-25|675|2026-10-25-1115": "Sun Oct 25  11:15 AM  Heather Ridge (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-10-25|684|2026-10-25-1124": "Sun Oct 25  11:24 AM  Heather Ridge (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-10-25|702|2026-10-25-1142": "Sun Oct 25  11:42 AM  Heather Ridge (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-10-25|711|2026-10-25-1151": "Sun Oct 25  11:51 AM  Heather Ridge (Aurora)  4 open"
+  "Heather Ridge (Aurora)|2026-10-25|711|2026-10-25-1151": "Sun Oct 25  11:51 AM  Heather Ridge (Aurora)  4 open",
+  "Kennedy (Denver Golf)|2026-10-25|690|19524460": "Sun Oct 25  11:30 AM  Kennedy (Babe Lind / Creek)  4 open @ $67",
+  "Meadows (Foothills P&R)|2026-10-31|560|19261812": "Sat Oct 31   9:20 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|580|19261816": "Sat Oct 31   9:40 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|590|19261818": "Sat Oct 31   9:50 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|620|19261824": "Sat Oct 31  10:20 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|640|19261828": "Sat Oct 31  10:40 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|650|19261830": "Sat Oct 31  10:50 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|660|19261832": "Sat Oct 31  11:00 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|670|19261834": "Sat Oct 31  11:10 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|700|19261840": "Sat Oct 31  11:40 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-10-31|710|19261842": "Sat Oct 31  11:50 AM  Meadows  4 open @ $89"
  },
- "tier2_last_digest": "2026-10-20T17:15"
+ "tier2_last_digest": "2026-10-21T07:28"
 }
