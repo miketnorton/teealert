@@ -1,8 +1,8 @@
 {
  "release_runs": {
   "Aurora Hills (Aurora)": {
-   "count": 2,
-   "date": "2026-10-20"
+   "count": 1,
+   "date": "2026-10-21"
   },
   "Kennedy (Denver Golf)": {
    "count": 2,
@@ -23,9 +23,14 @@
  },
  "tier1": {
   "Buffalo Run (Commerce City)|2026-10-25|590|2026-10-25T15:50:00.000Z": "Sun Oct 25   9:50 AM  Buffalo Run (Commerce City)  4 open @ $62",
+  "Meadow Hills (Aurora)|2026-10-24|610|2026-10-24-1010": "Sat Oct 24  10:10 AM  Meadow Hills (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-24|540|2026-10-24-0900": "Sat Oct 24   9:00 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open",
-  "Thorncreek (Thornton)|2026-10-24|573|2026-10-24-0933-693": "Sat Oct 24   9:33 AM  Thorncreek  4 open @ $60",
+  "Murphy Creek (Aurora)|2026-10-31|670|2026-10-31-1110": "Sat Oct 31  11:10 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-31|680|2026-10-31-1120": "Sat Oct 31  11:20 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-31|690|2026-10-31-1130": "Sat Oct 31  11:30 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-31|700|2026-10-31-1140": "Sat Oct 31  11:40 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-31|710|2026-10-31-1150": "Sat Oct 31  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-10-25|551|2026-10-25-0911-693": "Sun Oct 25   9:11 AM  Thorncreek  4 open @ $60",
   "Thorncreek (Thornton)|2026-10-25|617|2026-10-25-1017-693": "Sun Oct 25  10:17 AM  Thorncreek  4 open @ $60"
  },
@@ -34,6 +39,11 @@
   "Applewood (Golden)|2026-10-25|651|2026-10-25-10:51:00": "Sun Oct 25  10:51 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|669|2026-10-25-11:09:00": "Sun Oct 25  11:09 AM  Applewood (Golden)  4 open @ $67",
   "Applewood (Golden)|2026-10-25|678|2026-10-25-11:18:00": "Sun Oct 25  11:18 AM  Applewood (Golden)  4 open @ $67",
+  "Aurora Hills (Aurora)|2026-10-24|630|2026-10-24-1030": "Sat Oct 24  10:30 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-25|540|2026-10-25-0900": "Sun Oct 25   9:00 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-31|690|2026-10-31-1130": "Sat Oct 31  11:30 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-31|700|2026-10-31-1140": "Sat Oct 31  11:40 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-10-31|710|2026-10-31-1150": "Sat Oct 31  11:50 AM  Aurora Hills (Aurora)  4 open",
   "Broken Tee (Englewood)|2026-10-25|610|20258446": "Sun Oct 25  10:10 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|670|20258458": "Sun Oct 25  11:10 AM  Championship   4 open @ $77",
   "Broken Tee (Englewood)|2026-10-25|710|20258466": "Sun Oct 25  11:50 AM  Championship   4 open @ $77",
