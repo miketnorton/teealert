@@ -5,25 +5,30 @@
    "date": "2026-10-20"
   },
   "Kennedy (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-20"
+   "count": 1,
+   "date": "2026-10-21"
   },
   "Overland Park (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-20"
+   "count": 1,
+   "date": "2026-10-21"
   },
   "Wellshire (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-20"
+   "count": 1,
+   "date": "2026-10-21"
   },
   "Willis Case (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-20"
+   "count": 1,
+   "date": "2026-10-21"
   }
  },
  "tier1": {
   "Buffalo Run (Commerce City)|2026-10-25|590|2026-10-25T15:50:00.000Z": "Sun Oct 25   9:50 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open"
+  "Murphy Creek (Aurora)|2026-10-24|540|2026-10-24-0900": "Sat Oct 24   9:00 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open",
+  "Thorncreek (Thornton)|2026-10-24|573|2026-10-24-0933-693": "Sat Oct 24   9:33 AM  Thorncreek  4 open @ $60",
+  "Thorncreek (Thornton)|2026-10-25|540|2026-10-25-0900-693": "Sun Oct 25   9:00 AM  Thorncreek  4 open @ $60",
+  "Thorncreek (Thornton)|2026-10-25|551|2026-10-25-0911-693": "Sun Oct 25   9:11 AM  Thorncreek  4 open @ $60",
+  "Thorncreek (Thornton)|2026-10-25|617|2026-10-25-1017-693": "Sun Oct 25  10:17 AM  Thorncreek  4 open @ $60"
  },
  "tier2": {
   "Applewood (Golden)|2026-10-25|624|2026-10-25-10:24:00": "Sun Oct 25  10:24 AM  Applewood (Golden)  4 open @ $67",
@@ -47,8 +52,7 @@
   "Meadows (Foothills P&R)|2026-10-31|670|19261834": "Sat Oct 31  11:10 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-31|700|19261840": "Sat Oct 31  11:40 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-31|710|19261842": "Sat Oct 31  11:50 AM  Meadows  4 open @ $89",
-  "Riverdale Knolls (Brighton)|2026-10-24|693|2026-10-24T17:33:00.000Z": "Sat Oct 24  11:33 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Willis Case (Denver Golf)|2026-10-24|460|20356229": "Sat Oct 24   7:40 AM  Willis Case  4 open @ $67"
+  "Riverdale Knolls (Brighton)|2026-10-24|693|2026-10-24T17:33:00.000Z": "Sat Oct 24  11:33 AM  Riverdale Knolls (Brighton)  4 open @ $61"
  },
  "tier2_last_digest": "2026-10-21T17:20"
 }
