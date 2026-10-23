@@ -5,26 +5,28 @@
    "date": "2026-10-21"
   },
   "Kennedy (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-22"
   },
   "Overland Park (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-22"
   },
   "Wellshire (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-22"
   },
   "Willis Case (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-22"
   }
  },
  "tier1": {
+  "City Park (Denver Golf)|2026-10-24|680|12042114": "Sat Oct 24  11:20 AM  City Park  4 open @ $66",
   "Foothills 18 (Foothills P&R)|2026-11-01|690|15348605": "Sun Nov 1  11:30 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-01|700|15348607": "Sun Nov 1  11:40 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-01|710|15348609": "Sun Nov 1  11:50 AM  Foothills 18  4 open @ $89",
+  "Meadow Hills (Aurora)|2026-10-25|610|2026-10-25-1010": "Sun Oct 25  10:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|640|2026-10-25-1040": "Sun Oct 25  10:40 AM  Meadow Hills (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-24|530|2026-10-24-0850": "Sat Oct 24   8:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open",
