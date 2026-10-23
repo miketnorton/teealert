@@ -5,20 +5,20 @@
    "date": "2026-10-21"
   },
   "Kennedy (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-21"
+   "count": 1,
+   "date": "2026-10-22"
   },
   "Overland Park (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-21"
+   "count": 1,
+   "date": "2026-10-22"
   },
   "Wellshire (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-21"
+   "count": 1,
+   "date": "2026-10-22"
   },
   "Willis Case (Denver Golf)": {
-   "count": 2,
-   "date": "2026-10-21"
+   "count": 1,
+   "date": "2026-10-22"
   }
  },
  "tier1": {
@@ -30,8 +30,7 @@
   "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-31|710|2026-10-31-1150": "Sat Oct 31  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-25|660|2026-10-25-1100": "Sun Oct 25  11:00 AM  Saddle Rock (Aurora)  4 open",
-  "Thorncreek (Thornton)|2026-10-25|617|2026-10-25-1017-693": "Sun Oct 25  10:17 AM  Thorncreek  4 open @ $60",
-  "Thorncreek (Thornton)|2026-10-31|551|2026-10-31-0911-693": "Sat Oct 31   9:11 AM  Thorncreek  4 open @ $63"
+  "Thorncreek (Thornton)|2026-10-25|617|2026-10-25-1017-693": "Sun Oct 25  10:17 AM  Thorncreek  4 open @ $60"
  },
  "tier2": {
   "Applewood (Golden)|2026-10-24|444|2026-10-24-07:24:00": "Sat Oct 24   7:24 AM  Applewood (Golden)  4 open @ $67",
@@ -58,7 +57,6 @@
   "Homestead (Golf Lakewood)|2026-10-24|690|12717212": "Sat Oct 24  11:30 AM  Homestead Golf Course  4 open @ $81",
   "Homestead (Golf Lakewood)|2026-10-24|699|12717214": "Sat Oct 24  11:39 AM  Homestead Golf Course  4 open @ $81",
   "Homestead (Golf Lakewood)|2026-10-25|717|15083895": "Sun Oct 25  11:57 AM  Homestead Golf Course  4 open @ $81",
-  "Kennedy (Denver Golf)|2026-10-25|590|19524440": "Sun Oct 25   9:50 AM  Kennedy (Babe Lind / Creek)  4 open @ $67",
   "Meadows (Foothills P&R)|2026-10-24|650|19261618": "Sat Oct 24  10:50 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-25|630|20324826": "Sun Oct 25  10:30 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-31|660|19261832": "Sat Oct 31  11:00 AM  Meadows  4 open @ $89",
@@ -74,8 +72,8 @@
   "Meadows (Foothills P&R)|2026-11-01|710|19334179": "Sun Nov 1  11:50 AM  Meadows  4 open @ $89",
   "Overland Park (Denver Golf)|2026-10-25|700|16488805": "Sun Oct 25  11:40 AM  Overland Park  4 open @ $67",
   "Riverdale Knolls (Brighton)|2026-10-25|621|2026-10-25T16:21:00.000Z": "Sun Oct 25  10:21 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Willis Case (Denver Golf)|2026-10-24|530|20356243": "Sat Oct 24   8:50 AM  Willis Case  4 open @ $66",
-  "Willis Case (Denver Golf)|2026-10-25|670|19488985": "Sun Oct 25  11:10 AM  Willis Case  4 open @ $67"
+  "Wellshire (Denver Golf)|2026-10-24|630|11898734": "Sat Oct 24  10:30 AM  Wellshire  4 open @ $67",
+  "Willis Case (Denver Golf)|2026-10-25|670|19488985": "Sun Oct 25  11:10 AM  Willis Case  4 open @ $66"
  },
  "tier2_last_digest": "2026-10-22T17:02"
 }
