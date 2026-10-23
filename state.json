@@ -1,7 +1,7 @@
 {
  "release_runs": {
   "Aurora Hills (Aurora)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-22"
   },
   "Kennedy (Denver Golf)": {
@@ -65,7 +65,6 @@
   "Saddle Rock (Aurora)|2026-10-25|660|2026-10-25-1100": "Sun Oct 25  11:00 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|650|2026-11-01-1050": "Sun Nov 1  10:50 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|655|2026-11-01-1055": "Sun Nov 1  10:55 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-11-01|660|2026-11-01-1100": "Sun Nov 1  11:00 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|665|2026-11-01-1105": "Sun Nov 1  11:05 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|670|2026-11-01-1110": "Sun Nov 1  11:10 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|675|2026-11-01-1115": "Sun Nov 1  11:15 AM  Saddle Rock (Aurora)  4 open",
