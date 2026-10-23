@@ -63,6 +63,9 @@
   "Murphy Creek (Aurora)|2026-11-01|705|2026-11-01-1145": "Sun Nov 1  11:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-01|710|2026-11-01-1150": "Sun Nov 1  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-01|715|2026-11-01-1155": "Sun Nov 1  11:55 AM  Murphy Creek (Aurora)  4 open",
+  "Riverdale Dunes (Brighton)|2026-10-24|472|2026-10-24T13:52:00.000Z": "Sat Oct 24   7:52 AM  Riverdale Dunes (Brighton)  4 open @ $81",
+  "Riverdale Dunes (Brighton)|2026-10-24|542|2026-10-24T15:02:00.000Z": "Sat Oct 24   9:02 AM  Riverdale Dunes (Brighton)  4 open @ $81",
+  "Riverdale Dunes (Brighton)|2026-10-31|462|2026-10-31T13:42:00.000Z": "Sat Oct 31   7:42 AM  Riverdale Dunes (Brighton)  4 open @ $81",
   "Saddle Rock (Aurora)|2026-10-24|560|2026-10-24-0920": "Sat Oct 24   9:20 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-24|610|2026-10-24-1010": "Sat Oct 24  10:10 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-10-24|630|2026-10-24-1030": "Sat Oct 24  10:30 AM  Saddle Rock (Aurora)  4 open",
@@ -73,7 +76,8 @@
   "Saddle Rock (Aurora)|2026-11-01|695|2026-11-01-1135": "Sun Nov 1  11:35 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|700|2026-11-01-1140": "Sun Nov 1  11:40 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|705|2026-11-01-1145": "Sun Nov 1  11:45 AM  Saddle Rock (Aurora)  4 open",
-  "Thorncreek (Thornton)|2026-10-24|672|2026-10-24-1112-693": "Sat Oct 24  11:12 AM  Thorncreek  4 open @ $54",
+  "Thorncreek (Thornton)|2026-10-24|529|2026-10-24-0849-693": "Sat Oct 24   8:49 AM  Thorncreek  4 open @ $58",
+  "Thorncreek (Thornton)|2026-10-24|661|2026-10-24-1101-693": "Sat Oct 24  11:01 AM  Thorncreek  4 open @ $54",
   "Thorncreek (Thornton)|2026-10-24|683|2026-10-24-1123-693": "Sat Oct 24  11:23 AM  Thorncreek  4 open @ $54"
  },
  "tier2": {
