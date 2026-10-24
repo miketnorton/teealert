@@ -35,6 +35,7 @@
   "Meadow Hills (Aurora)|2026-10-24|610|2026-10-24-1010": "Sat Oct 24  10:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-24|630|2026-10-24-1030": "Sat Oct 24  10:30 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|640|2026-10-25-1040": "Sun Oct 25  10:40 AM  Meadow Hills (Aurora)  4 open",
+  "Meadow Hills (Aurora)|2026-10-25|650|2026-10-25-1050": "Sun Oct 25  10:50 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|680|2026-10-25-1120": "Sun Oct 25  11:20 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-11-01|671|2026-11-01-1111": "Sun Nov 1  11:11 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-11-01|681|2026-11-01-1121": "Sun Nov 1  11:21 AM  Meadow Hills (Aurora)  4 open",
@@ -66,7 +67,8 @@
   "Saddle Rock (Aurora)|2026-11-01|695|2026-11-01-1135": "Sun Nov 1  11:35 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|700|2026-11-01-1140": "Sun Nov 1  11:40 AM  Saddle Rock (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-10-24|529|2026-10-24-0849-693": "Sat Oct 24   8:49 AM  Thorncreek  4 open @ $58",
-  "Thorncreek (Thornton)|2026-10-24|683|2026-10-24-1123-693": "Sat Oct 24  11:23 AM  Thorncreek  4 open @ $54"
+  "Thorncreek (Thornton)|2026-10-24|683|2026-10-24-1123-693": "Sat Oct 24  11:23 AM  Thorncreek  4 open @ $54",
+  "Thorncreek (Thornton)|2026-10-25|650|2026-10-25-1050-693": "Sun Oct 25  10:50 AM  Thorncreek  4 open @ $60"
  },
  "tier2": {
   "Applewood (Golden)|2026-10-25|633|2026-10-25-10:33:00": "Sun Oct 25  10:33 AM  Applewood (Golden)  4 open @ $67",
