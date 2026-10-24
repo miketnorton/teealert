@@ -5,26 +5,25 @@
    "date": "2026-10-22"
   },
   "Kennedy (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-23"
   },
   "Overland Park (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-23"
   },
   "Wellshire (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-23"
   },
   "Willis Case (Denver Golf)": {
-   "count": 1,
+   "count": 2,
    "date": "2026-10-23"
   }
  },
  "tier1": {
-  "Buffalo Run (Commerce City)|2026-10-24|560|2026-10-24T15:20:00.000Z": "Sat Oct 24   9:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Buffalo Run (Commerce City)|2026-10-25|500|2026-10-25T14:20:00.000Z": "Sun Oct 25   8:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|550|2026-10-25T15:10:00.000Z": "Sun Oct 25   9:10 AM  Buffalo Run (Commerce City)  4 open @ $62",
+  "Buffalo Run (Commerce City)|2026-10-25|560|2026-10-25T15:20:00.000Z": "Sun Oct 25   9:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|620|2026-10-25T16:20:00.000Z": "Sun Oct 25  10:20 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|630|2026-10-25T16:30:00.000Z": "Sun Oct 25  10:30 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Buffalo Run (Commerce City)|2026-10-25|640|2026-10-25T16:40:00.000Z": "Sun Oct 25  10:40 AM  Buffalo Run (Commerce City)  4 open @ $62",
@@ -34,8 +33,6 @@
   "Meadow Hills (Aurora)|2026-10-24|540|2026-10-24-0900": "Sat Oct 24   9:00 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-24|610|2026-10-24-1010": "Sat Oct 24  10:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-24|630|2026-10-24-1030": "Sat Oct 24  10:30 AM  Meadow Hills (Aurora)  4 open",
-  "Meadow Hills (Aurora)|2026-10-24|700|2026-10-24-1140": "Sat Oct 24  11:40 AM  Meadow Hills (Aurora)  4 open",
-  "Meadow Hills (Aurora)|2026-10-25|550|2026-10-25-0910": "Sun Oct 25   9:10 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|640|2026-10-25-1040": "Sun Oct 25  10:40 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-10-25|680|2026-10-25-1120": "Sun Oct 25  11:20 AM  Meadow Hills (Aurora)  4 open",
   "Meadow Hills (Aurora)|2026-11-01|671|2026-11-01-1111": "Sun Nov 1  11:11 AM  Meadow Hills (Aurora)  4 open",
@@ -48,6 +45,7 @@
   "Murphy Creek (Aurora)|2026-10-24|690|2026-10-24-1130": "Sat Oct 24  11:30 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-24|710|2026-10-24-1150": "Sat Oct 24  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-25|530|2026-10-25-0850": "Sun Oct 25   8:50 AM  Murphy Creek (Aurora)  4 open",
+  "Murphy Creek (Aurora)|2026-10-25|580|2026-10-25-0940": "Sun Oct 25   9:40 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-10-25|660|2026-10-25-1100": "Sun Oct 25  11:00 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-01|655|2026-11-01-1055": "Sun Nov 1  10:55 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-01|665|2026-11-01-1105": "Sun Nov 1  11:05 AM  Murphy Creek (Aurora)  4 open",
@@ -70,7 +68,6 @@
   "Saddle Rock (Aurora)|2026-11-01|700|2026-11-01-1140": "Sun Nov 1  11:40 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-01|705|2026-11-01-1145": "Sun Nov 1  11:45 AM  Saddle Rock (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-10-24|529|2026-10-24-0849-693": "Sat Oct 24   8:49 AM  Thorncreek  4 open @ $58",
-  "Thorncreek (Thornton)|2026-10-24|661|2026-10-24-1101-693": "Sat Oct 24  11:01 AM  Thorncreek  4 open @ $54",
   "Thorncreek (Thornton)|2026-10-24|683|2026-10-24-1123-693": "Sat Oct 24  11:23 AM  Thorncreek  4 open @ $54"
  },
  "tier2": {
@@ -125,9 +122,9 @@
   "Hyland Hills Gold (Westminster)|2026-10-24|610|2026-10-24T16:10:00.000Z": "Sat Oct 24  10:10 AM  Hyland Hills Gold (Westminster)  4 open @ $77",
   "Hyland Hills Gold (Westminster)|2026-10-24|640|2026-10-24T16:40:00.000Z": "Sat Oct 24  10:40 AM  Hyland Hills Gold (Westminster)  4 open @ $77",
   "Hyland Hills Gold (Westminster)|2026-10-25|590|2026-10-25T15:50:00.000Z": "Sun Oct 25   9:50 AM  Hyland Hills Gold (Westminster)  4 open @ $77",
-  "Kennedy (Denver Golf)|2026-10-24|510|16752988": "Sat Oct 24   8:30 AM  Kennedy (Babe Lind / Creek)  4 open @ $66",
   "Kennedy (Denver Golf)|2026-10-24|690|16753024": "Sat Oct 24  11:30 AM  Kennedy (Babe Lind / Creek)  4 open @ $66",
   "Kennedy (Denver Golf)|2026-10-25|480|19524418": "Sun Oct 25   8:00 AM  Kennedy (Babe Lind / Creek)  4 open @ $66",
+  "Kennedy (Denver Golf)|2026-10-25|560|19524434": "Sun Oct 25   9:20 AM  Kennedy (Babe Lind / Creek)  4 open @ $66",
   "Kennedy (Denver Golf)|2026-10-25|670|19524456": "Sun Oct 25  11:10 AM  Kennedy (Babe Lind / Creek)  4 open @ $66",
   "Meadows (Foothills P&R)|2026-10-24|670|19261622": "Sat Oct 24  11:10 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-10-25|630|20324826": "Sun Oct 25  10:30 AM  Meadows  4 open @ $89",
@@ -141,8 +138,7 @@
   "Meadows (Foothills P&R)|2026-11-01|690|19334175": "Sun Nov 1  11:30 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-11-01|700|19334177": "Sun Nov 1  11:40 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-11-01|710|19334179": "Sun Nov 1  11:50 AM  Meadows  4 open @ $89",
-  "Overland Park (Denver Golf)|2026-10-24|620|16487729": "Sat Oct 24  10:20 AM  Overland Park  4 open @ $65",
-  "Overland Park (Denver Golf)|2026-10-24|710|16487747": "Sat Oct 24  11:50 AM  Overland Park  4 open @ $66",
+  "Overland Park (Denver Golf)|2026-10-24|700|16487745": "Sat Oct 24  11:40 AM  Overland Park  4 open @ $66",
   "Overland Park (Denver Golf)|2026-10-25|450|16488755": "Sun Oct 25   7:30 AM  Overland Park  4 open @ $66",
   "Overland Park (Denver Golf)|2026-10-25|520|16488769": "Sun Oct 25   8:40 AM  Overland Park  4 open @ $66",
   "Overland Park (Denver Golf)|2026-10-25|540|16488773": "Sun Oct 25   9:00 AM  Overland Park  4 open @ $66",
@@ -157,7 +153,6 @@
   "Riverdale Knolls (Brighton)|2026-10-25|540|2026-10-25T15:00:00.000Z": "Sun Oct 25   9:00 AM  Riverdale Knolls (Brighton)  4 open @ $61",
   "Riverdale Knolls (Brighton)|2026-10-25|675|2026-10-25T17:15:00.000Z": "Sun Oct 25  11:15 AM  Riverdale Knolls (Brighton)  4 open @ $61",
   "Riverdale Knolls (Brighton)|2026-10-25|684|2026-10-25T17:24:00.000Z": "Sun Oct 25  11:24 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Wellshire (Denver Golf)|2026-10-25|670|11898954": "Sun Oct 25  11:10 AM  Wellshire  4 open @ $66",
   "Willis Case (Denver Golf)|2026-10-25|460|19488943": "Sun Oct 25   7:40 AM  Willis Case  4 open @ $67",
   "Willis Case (Denver Golf)|2026-10-25|580|19488967": "Sun Oct 25   9:40 AM  Willis Case  4 open @ $67"
  },
