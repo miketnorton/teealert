@@ -97,25 +97,6 @@
       "days_ahead": 14
     },
     {
-      "label": "Fox Hollow (Golf Lakewood)",
-      "tier": 2,
-      "platform": "membersports",
-      "url": "https://app.membersports.com/tee-times/3703/20589/0",
-      "golfClubId": 3703,
-      "golfCourseId": 20589,
-      "configurationTypeId": 0,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 7
-    },
-    {
       "label": "Kennedy (Denver Golf)",
       "tier": 2,
       "platform": "membersports",
@@ -201,26 +182,6 @@
       "window_days": 14
     },
     {
-      "label": "Broken Tee (Englewood)",
-      "tier": 2,
-      "platform": "membersports",
-      "url": "https://app.membersports.com/tee-times/3689/4748/0",
-      "golfClubId": 3689,
-      "golfCourseId": 4748,
-      "configurationTypeId": 0,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 8,
-      "exclude_name": "Par 3"
-    },
-    {
       "label": "Foothills 18 (Foothills P&R)",
       "tier": 1,
       "platform": "membersports",
@@ -298,43 +259,6 @@
       "days_ahead": 8
     },
     {
-      "label": "Hyland Hills Gold (Westminster)",
-      "tier": 2,
-      "platform": "teeitup",
-      "url": "https://hyland-hills-park-recreation-district.book.teeitup.com/?course=9201",
-      "alias": "hyland-hills-park-recreation-district",
-      "facilityId": 9201,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 8
-    },
-    {
-      "label": "Applewood (Golden)",
-      "tier": 2,
-      "platform": "clubcaddie",
-      "url": "https://apimanager-cc11.clubcaddie.com/webapi/view/hbfdabab/slots",
-      "host": "apimanager-cc11.clubcaddie.com",
-      "apikey": "hbfdabab",
-      "courseId": 103418,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 7
-    },
-    {
       "label": "Aurora Hills (Aurora)",
       "tier": 2,
       "platform": "ezlinks",
@@ -354,26 +278,6 @@
       "release_time": "20:00",
       "window_days": 10,
       "exclude_name": "Back 9"
-    },
-    {
-      "label": "Meadow Hills (Aurora)",
-      "tier": 1,
-      "platform": "ezlinks",
-      "url": "https://cityofaurora.ezlinksgolf.com/search",
-      "host": "cityofaurora.ezlinksgolf.com",
-      "courseId": 6474,
-      "days": [
-        "Sat",
-        "Sun"
-      ],
-      "earliest": "06:00",
-      "latest": "11:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 10,
-      "window_days": 10,
-      "release_time": "20:00"
     },
     {
       "label": "Murphy Creek (Aurora)",
