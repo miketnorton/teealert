@@ -24,14 +24,11 @@
  "tier1": {
   "Foothills 18 (Foothills P&R)|2026-11-14|700|15354331": "Sat Nov 14  11:40 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-14|710|15354333": "Sat Nov 14  11:50 AM  Foothills 18  4 open @ $89",
+  "Murphy Creek (Aurora)|2026-11-08|605|2026-11-08-1005": "Sun Nov 8  10:05 AM  Murphy Creek (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-11-14|566|2026-11-14-0926-693": "Sat Nov 14   9:26 AM  Thorncreek  4 open @ $63",
   "Thorncreek (Thornton)|2026-11-14|621|2026-11-14-1021-693": "Sat Nov 14  10:21 AM  Thorncreek  4 open @ $63"
  },
  "tier2": {
-  "Heather Ridge (Aurora)|2026-11-08|549|2026-11-08-0909": "Sun Nov 8   9:09 AM  Heather Ridge (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-11-08|585|2026-11-08-0945": "Sun Nov 8   9:45 AM  Heather Ridge (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-11-08|594|2026-11-08-0954": "Sun Nov 8   9:54 AM  Heather Ridge (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-11-08|639|2026-11-08-1039": "Sun Nov 8  10:39 AM  Heather Ridge (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-11-08|648|2026-11-08-1048": "Sun Nov 8  10:48 AM  Heather Ridge (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-11-08|657|2026-11-08-1057": "Sun Nov 8  10:57 AM  Heather Ridge (Aurora)  4 open",
   "Heather Ridge (Aurora)|2026-11-08|666|2026-11-08-1106": "Sun Nov 8  11:06 AM  Heather Ridge (Aurora)  4 open",
@@ -44,7 +41,13 @@
   "Homestead (Golf Lakewood)|2026-11-08|564|15094187": "Sun Nov 8   9:24 AM  Homestead Golf Course  4 open @ $41",
   "Homestead (Golf Lakewood)|2026-11-08|573|15094189": "Sun Nov 8   9:33 AM  Homestead Golf Course  4 open @ $41",
   "Homestead (Golf Lakewood)|2026-11-08|582|15094191": "Sun Nov 8   9:42 AM  Homestead Golf Course  4 open @ $41",
-  "Homestead (Golf Lakewood)|2026-11-08|591|15094193": "Sun Nov 8   9:51 AM  Homestead Golf Course  4 open @ $41"
+  "Homestead (Golf Lakewood)|2026-11-08|591|15094193": "Sun Nov 8   9:51 AM  Homestead Golf Course  4 open @ $41",
+  "Meadows (Foothills P&R)|2026-11-14|650|20899762": "Sat Nov 14  10:50 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-14|670|20899766": "Sat Nov 14  11:10 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-14|680|20899768": "Sat Nov 14  11:20 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-14|690|20899770": "Sat Nov 14  11:30 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-14|700|20899772": "Sat Nov 14  11:40 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-14|710|20899774": "Sat Nov 14  11:50 AM  Meadows  4 open @ $89"
  },
- "tier2_last_digest": "2026-11-03T17:52"
+ "tier2_last_digest": "2026-11-04T08:19"
 }
