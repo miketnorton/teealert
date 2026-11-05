@@ -24,13 +24,9 @@
  "tier1": {
   "Foothills 18 (Foothills P&R)|2026-11-14|700|15354331": "Sat Nov 14  11:40 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-14|710|15354333": "Sat Nov 14  11:50 AM  Foothills 18  4 open @ $89",
-  "Foothills 18 (Foothills P&R)|2026-11-15|670|15349025": "Sun Nov 15  11:10 AM  Foothills 18  4 open @ $89",
-  "Foothills 18 (Foothills P&R)|2026-11-15|680|15349027": "Sun Nov 15  11:20 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-15|690|15349029": "Sun Nov 15  11:30 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-15|700|15349031": "Sun Nov 15  11:40 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-15|710|15349033": "Sun Nov 15  11:50 AM  Foothills 18  4 open @ $89",
-  "Murphy Creek (Aurora)|2026-11-14|605|2026-11-14-1005": "Sat Nov 14  10:05 AM  Murphy Creek (Aurora)  4 open",
-  "Murphy Creek (Aurora)|2026-11-14|610|2026-11-14-1010": "Sat Nov 14  10:10 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|615|2026-11-14-1015": "Sat Nov 14  10:15 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|620|2026-11-14-1020": "Sat Nov 14  10:20 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|625|2026-11-14-1025": "Sat Nov 14  10:25 AM  Murphy Creek (Aurora)  4 open",
@@ -51,25 +47,31 @@
   "Murphy Creek (Aurora)|2026-11-14|705|2026-11-14-1145": "Sat Nov 14  11:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|710|2026-11-14-1150": "Sat Nov 14  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|715|2026-11-14-1155": "Sat Nov 14  11:55 AM  Murphy Creek (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-11-14|650|2026-11-14-1050": "Sat Nov 14  10:50 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|655|2026-11-14-1055": "Sat Nov 14  10:55 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-11-14|665|2026-11-14-1105": "Sat Nov 14  11:05 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|670|2026-11-14-1110": "Sat Nov 14  11:10 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|675|2026-11-14-1115": "Sat Nov 14  11:15 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|680|2026-11-14-1120": "Sat Nov 14  11:20 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|685|2026-11-14-1125": "Sat Nov 14  11:25 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|690|2026-11-14-1130": "Sat Nov 14  11:30 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-11-14|695|2026-11-14-1135": "Sat Nov 14  11:35 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|700|2026-11-14-1140": "Sat Nov 14  11:40 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|705|2026-11-14-1145": "Sat Nov 14  11:45 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-14|715|2026-11-14-1155": "Sat Nov 14  11:55 AM  Saddle Rock (Aurora)  4 open",
   "Thorncreek (Thornton)|2026-11-14|621|2026-11-14-1021-693": "Sat Nov 14  10:21 AM  Thorncreek  4 open @ $63"
  },
  "tier2": {
-  "Homestead (Golf Lakewood)|2026-11-08|582|15094191": "Sun Nov 8   9:42 AM  Homestead Golf Course  4 open @ $41",
-  "Meadows (Foothills P&R)|2026-11-14|690|20899770": "Sat Nov 14  11:30 AM  Meadows  4 open @ $89",
+  "Aurora Hills (Aurora)|2026-11-14|675|2026-11-14-1115": "Sat Nov 14  11:15 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-11-14|685|2026-11-14-1125": "Sat Nov 14  11:25 AM  Aurora Hills (Aurora)  4 open",
+  "Aurora Hills (Aurora)|2026-11-14|695|2026-11-14-1135": "Sat Nov 14  11:35 AM  Aurora Hills (Aurora)  4 open",
+  "Heather Ridge (Aurora)|2026-11-07|657|2026-11-07-1057": "Sat Nov 7  10:57 AM  Heather Ridge (Aurora)  4 open",
+  "Homestead (Golf Lakewood)|2026-11-08|591|15094193": "Sun Nov 8   9:51 AM  Homestead Golf Course  4 open @ $41",
   "Meadows (Foothills P&R)|2026-11-14|700|20899772": "Sat Nov 14  11:40 AM  Meadows  4 open @ $89",
-  "Meadows (Foothills P&R)|2026-11-14|710|20899774": "Sat Nov 14  11:50 AM  Meadows  4 open @ $89"
+  "Meadows (Foothills P&R)|2026-11-14|710|20899774": "Sat Nov 14  11:50 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|650|20909254": "Sun Nov 15  10:50 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|670|20909258": "Sun Nov 15  11:10 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|680|20909260": "Sun Nov 15  11:20 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|690|20909262": "Sun Nov 15  11:30 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|700|20909264": "Sun Nov 15  11:40 AM  Meadows  4 open @ $89",
+  "Meadows (Foothills P&R)|2026-11-15|710|20909266": "Sun Nov 15  11:50 AM  Meadows  4 open @ $89"
  },
- "tier2_last_digest": "2026-11-04T18:31"
+ "tier2_last_digest": "2026-11-05T09:37"
 }
