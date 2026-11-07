@@ -22,11 +22,6 @@
   }
  },
  "tier1": {
-  "Foothills 18 (Foothills P&R)|2026-11-07|550|15354089": "Sat Nov 7   9:10 AM  Foothills 18  4 open @ $48",
-  "Foothills 18 (Foothills P&R)|2026-11-08|550|15348789": "Sun Nov 8   9:10 AM  Foothills 18  4 open @ $48",
-  "Foothills 18 (Foothills P&R)|2026-11-08|570|15348793": "Sun Nov 8   9:30 AM  Foothills 18  4 open @ $48",
-  "Foothills 18 (Foothills P&R)|2026-11-15|690|15349029": "Sun Nov 15  11:30 AM  Foothills 18  4 open @ $89",
-  "Foothills 18 (Foothills P&R)|2026-11-15|700|15349031": "Sun Nov 15  11:40 AM  Foothills 18  4 open @ $89",
   "Foothills 18 (Foothills P&R)|2026-11-15|710|15349033": "Sun Nov 15  11:50 AM  Foothills 18  4 open @ $89",
   "Murphy Creek (Aurora)|2026-11-14|620|2026-11-14-1020": "Sat Nov 14  10:20 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|625|2026-11-14-1025": "Sat Nov 14  10:25 AM  Murphy Creek (Aurora)  4 open",
@@ -46,7 +41,6 @@
   "Murphy Creek (Aurora)|2026-11-14|705|2026-11-14-1145": "Sat Nov 14  11:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|710|2026-11-14-1150": "Sat Nov 14  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|715|2026-11-14-1155": "Sat Nov 14  11:55 AM  Murphy Creek (Aurora)  4 open",
-  "Murphy Creek (Aurora)|2026-11-15|635|2026-11-15-1035": "Sun Nov 15  10:35 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|640|2026-11-15-1040": "Sun Nov 15  10:40 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|645|2026-11-15-1045": "Sun Nov 15  10:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|650|2026-11-15-1050": "Sun Nov 15  10:50 AM  Murphy Creek (Aurora)  4 open",
@@ -73,25 +67,16 @@
   "Saddle Rock (Aurora)|2026-11-15|715|2026-11-15-1155": "Sun Nov 15  11:55 AM  Saddle Rock (Aurora)  4 open"
  },
  "tier2": {
-  "Aurora Hills (Aurora)|2026-11-08|615|2026-11-08-1015": "Sun Nov 8  10:15 AM  Aurora Hills (Aurora)  4 open",
-  "Aurora Hills (Aurora)|2026-11-15|655|2026-11-15-1055": "Sun Nov 15  10:55 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|665|2026-11-15-1105": "Sun Nov 15  11:05 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|675|2026-11-15-1115": "Sun Nov 15  11:15 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|685|2026-11-15-1125": "Sun Nov 15  11:25 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|690|2026-11-15-1130": "Sun Nov 15  11:30 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|695|2026-11-15-1135": "Sun Nov 15  11:35 AM  Aurora Hills (Aurora)  4 open",
   "Aurora Hills (Aurora)|2026-11-15|700|2026-11-15-1140": "Sun Nov 15  11:40 AM  Aurora Hills (Aurora)  4 open",
-  "Heather Ridge (Aurora)|2026-11-07|657|2026-11-07-1057": "Sat Nov 7  10:57 AM  Heather Ridge (Aurora)  4 open",
-  "Meadows (Foothills P&R)|2026-11-15|680|20909260": "Sun Nov 15  11:20 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-11-15|690|20909262": "Sun Nov 15  11:30 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-11-15|700|20909264": "Sun Nov 15  11:40 AM  Meadows  4 open @ $89",
   "Meadows (Foothills P&R)|2026-11-15|710|20909266": "Sun Nov 15  11:50 AM  Meadows  4 open @ $89",
-  "Riverdale Knolls (Brighton)|2026-11-14|648|2026-11-14T17:48:00.000Z": "Sat Nov 14  10:48 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Riverdale Knolls (Brighton)|2026-11-14|657|2026-11-14T17:57:00.000Z": "Sat Nov 14  10:57 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Riverdale Knolls (Brighton)|2026-11-14|684|2026-11-14T18:24:00.000Z": "Sat Nov 14  11:24 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Riverdale Knolls (Brighton)|2026-11-14|693|2026-11-14T18:33:00.000Z": "Sat Nov 14  11:33 AM  Riverdale Knolls (Brighton)  4 open @ $61",
-  "Riverdale Knolls (Brighton)|2026-11-14|702|2026-11-14T18:42:00.000Z": "Sat Nov 14  11:42 AM  Riverdale Knolls (Brighton)  4 open @ $61",
   "Riverdale Knolls (Brighton)|2026-11-14|711|2026-11-14T18:51:00.000Z": "Sat Nov 14  11:51 AM  Riverdale Knolls (Brighton)  4 open @ $61"
  },
- "tier2_last_digest": "2026-11-06T09:56"
+ "tier2_last_digest": "2026-11-06T18:29"
 }
