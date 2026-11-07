@@ -22,12 +22,8 @@
   }
  },
  "tier1": {
-  "Buffalo Run (Commerce City)|2026-11-14|525|2026-11-14T15:45:00.000Z": "Sat Nov 14   8:45 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Buffalo Run (Commerce City)|2026-11-14|615|2026-11-14T17:15:00.000Z": "Sat Nov 14  10:15 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Buffalo Run (Commerce City)|2026-11-14|630|2026-11-14T17:30:00.000Z": "Sat Nov 14  10:30 AM  Buffalo Run (Commerce City)  4 open @ $62",
-  "Buffalo Run (Commerce City)|2026-11-14|645|2026-11-14T17:45:00.000Z": "Sat Nov 14  10:45 AM  Buffalo Run (Commerce City)  4 open @ $62",
+  "Buffalo Run (Commerce City)|2026-11-14|660|2026-11-14T18:00:00.000Z": "Sat Nov 14  11:00 AM  Buffalo Run (Commerce City)  4 open @ $62",
   "Foothills 18 (Foothills P&R)|2026-11-07|530|15354085": "Sat Nov 7   8:50 AM  Foothills 18  4 open @ $48",
-  "Murphy Creek (Aurora)|2026-11-14|625|2026-11-14-1025": "Sat Nov 14  10:25 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|635|2026-11-14-1035": "Sat Nov 14  10:35 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|640|2026-11-14-1040": "Sat Nov 14  10:40 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|645|2026-11-14-1045": "Sat Nov 14  10:45 AM  Murphy Creek (Aurora)  4 open",
@@ -44,7 +40,6 @@
   "Murphy Creek (Aurora)|2026-11-14|705|2026-11-14-1145": "Sat Nov 14  11:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|710|2026-11-14-1150": "Sat Nov 14  11:50 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-14|715|2026-11-14-1155": "Sat Nov 14  11:55 AM  Murphy Creek (Aurora)  4 open",
-  "Murphy Creek (Aurora)|2026-11-15|625|2026-11-15-1025": "Sun Nov 15  10:25 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|645|2026-11-15-1045": "Sun Nov 15  10:45 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|655|2026-11-15-1055": "Sun Nov 15  10:55 AM  Murphy Creek (Aurora)  4 open",
   "Murphy Creek (Aurora)|2026-11-15|660|2026-11-15-1100": "Sun Nov 15  11:00 AM  Murphy Creek (Aurora)  4 open",
@@ -64,8 +59,7 @@
   "Saddle Rock (Aurora)|2026-11-15|700|2026-11-15-1140": "Sun Nov 15  11:40 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-15|705|2026-11-15-1145": "Sun Nov 15  11:45 AM  Saddle Rock (Aurora)  4 open",
   "Saddle Rock (Aurora)|2026-11-15|710|2026-11-15-1150": "Sun Nov 15  11:50 AM  Saddle Rock (Aurora)  4 open",
-  "Saddle Rock (Aurora)|2026-11-15|715|2026-11-15-1155": "Sun Nov 15  11:55 AM  Saddle Rock (Aurora)  4 open",
-  "Thorncreek (Thornton)|2026-11-08|522|2026-11-08-0842-693": "Sun Nov 8   8:42 AM  Thorncreek  4 open @ $60"
+  "Saddle Rock (Aurora)|2026-11-15|715|2026-11-15-1155": "Sun Nov 15  11:55 AM  Saddle Rock (Aurora)  4 open"
  },
  "tier2": {
   "Aurora Hills (Aurora)|2026-11-08|675|2026-11-08-1115": "Sun Nov 8  11:15 AM  Aurora Hills (Aurora)  4 open",
