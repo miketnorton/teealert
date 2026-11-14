@@ -18,7 +18,7 @@
       "days_ahead": 14,
       "window_days": 14,
       "release_time": "19:00"
-    },
+    }
   ],
   "tier2_digest_times": [
     "07:00",
