@@ -19,42 +19,6 @@
       "window_days": 14,
       "release_time": "19:00"
     },
-    {
-      "label": "City Park (Denver Golf) - Fri PM",
-      "tier": 1,
-      "platform": "membersports",
-      "url": "https://app.membersports.com/tee-times/3660/4711/0",
-      "golfClubId": 3660,
-      "golfCourseId": 4711,
-      "configurationTypeId": 0,
-      "days": ["Fri"],
-      "earliest": "15:00",
-      "latest": "23:59",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 14,
-      "window_days": 14,
-      "release_time": "19:00"
-    },
-    {
-      "label": "City Park (Denver Golf) - Wed 11/25",
-      "tier": 1,
-      "platform": "membersports",
-      "url": "https://app.membersports.com/tee-times/3660/4711/0",
-      "golfClubId": 3660,
-      "golfCourseId": 4711,
-      "configurationTypeId": 0,
-      "days": ["Wed"],
-      "earliest": "10:00",
-      "latest": "12:00",
-      "min_open_spots": 4,
-      "eighteen_only": true,
-      "bookable_only": true,
-      "days_ahead": 14,
-      "window_days": 14,
-      "release_time": "19:00"
-    }
   ],
   "tier2_digest_times": [
     "07:00",
