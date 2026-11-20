@@ -23,10 +23,12 @@
  },
  "tier1": {
   "City Park (Denver Golf)|2026-11-21|600|13645754": "Sat Nov 21  10:00 AM  City Park  4 open @ $66",
-  "City Park (Denver Golf)|2026-11-21|620|13645758": "Sat Nov 21  10:20 AM  City Park  4 open @ $66",
-  "City Park (Denver Golf)|2026-11-22|620|21038663": "Sun Nov 22  10:20 AM  City Park  4 open @ $67",
-  "City Park (Denver Golf)|2026-11-22|640|21038667": "Sun Nov 22  10:40 AM  City Park  2 open @ $67",
-  "City Park (Denver Golf)|2026-11-22|690|21038677": "Sun Nov 22  11:30 AM  City Park  4 open @ $66"
+  "City Park (Denver Golf)|2026-11-21|620|13645758": "Sat Nov 21  10:20 AM  City Park  2 open @ $66",
+  "City Park (Denver Golf)|2026-11-21|650|13645764": "Sat Nov 21  10:50 AM  City Park  2 open @ $66",
+  "City Park (Denver Golf)|2026-11-21|660|13645766": "Sat Nov 21  11:00 AM  City Park  2 open @ $66",
+  "City Park (Denver Golf)|2026-11-21|680|13645770": "Sat Nov 21  11:20 AM  City Park  2 open @ $66",
+  "City Park (Denver Golf)|2026-11-22|630|21038665": "Sun Nov 22  10:30 AM  City Park  4 open @ $67",
+  "City Park (Denver Golf)|2026-11-22|640|21038667": "Sun Nov 22  10:40 AM  City Park  2 open @ $67"
  },
  "tier2": {
   "Heather Ridge (Aurora)|2026-11-14|531|2026-11-14-0851": "Sat Nov 14   8:51 AM  Heather Ridge (Aurora)  4 open",
